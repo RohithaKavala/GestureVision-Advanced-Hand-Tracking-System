@@ -156,7 +156,7 @@ gesturevision-hand-tracking/
 ---
 
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * 🧠 AI-based custom gesture classification
 * 🎮 Gesture-controlled gaming interactions
