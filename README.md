@@ -1,6 +1,6 @@
 # ✨ GestureVision: Advanced Hand Tracking System
 
-> 🚀 A real-time AI-powered hand tracking and gesture recognition experience built using **MediaPipe**, **JavaScript**, **HTML5 Canvas**, and **Web Audio API**.
+>  A real-time AI-powered hand tracking and gesture recognition experience built using **MediaPipe**, **JavaScript**, **HTML5 Canvas**, and **Web Audio API**.
 
 ---
 
@@ -113,7 +113,7 @@ Users interact with the experience through natural hand gestures.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
