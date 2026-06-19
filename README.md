@@ -118,7 +118,7 @@ Users interact with the experience through natural hand gestures.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gesturevision-hand-tracking.git
+git clone https://github.com/RohithaKavala/gesturevision-hand-tracking.git
 ```
 
 ### Run the Project
